@@ -2,14 +2,14 @@
   box-sizing: border-box;
   }
   
-  body {
+  body {  
   margin: 0;
   font-family: system-ui, sans-serif;
   color: black;
   background-color: white;
   }
   
-  main {
+  main {  
   margin-top: 250px; /* Adiciona um espaço de margem superior para compensar a altura do cabeçalho e da navegação */
   padding: 20px; /* Adiciona preenchimento interno ao conteúdo principal */
   }
