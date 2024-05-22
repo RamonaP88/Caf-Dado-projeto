@@ -2,11 +2,16 @@
   box-sizing: border-box;
   }
   
+  img {
+    position: relative;    
+}
+
   body {  
   margin: 0;
   font-family: system-ui, sans-serif;
   color: black;
   background-color: white;
+  
   }
   
   main {  
@@ -53,7 +58,8 @@
   border-bottom: solid 0.5px #aaa;
   background-color: #eee;
   z-index: 998; /* Garante que a navegação fique acima de outros elementos, exceto o cabeçalho */
-  }
+  
+}
   
   
   nav ul {
@@ -92,3 +98,5 @@
   align-items: center;
   justify-content: center;
   }
+
+  
